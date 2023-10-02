@@ -1,4 +1,4 @@
-# imBee-frontend-design-2023
+# imBee limited frontend-design record (internship)
 
 Below are the records of my contribution in imBee frontend development during the internship.
 ![image](https://github.com/tommyNg0530/imBee-frontend-design-2023/assets/73814113/51ec8ab6-1b2e-4653-9638-ddb394f46178)
